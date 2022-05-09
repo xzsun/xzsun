@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning microbiome data analysis.
 - 💞️ I’m looking to collaborate on microbiome analysis.
 - 📫 How to reach me xzsun@cau.edu.cn
-- 🐡 哔哩哔哩用户名: bili_89968742364
+- 🐡 bilibili用户名: bili_89968742364
 - 😄 微信公众号: 坷垃嘟囔（keladunang）
 
 <!---
