@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xzsun
+- 👋 Hi, I’m X.Z. Sun
 - 👀 I’m interested in pingpang ball, badminton, golf and so on.
 - 🌱 I’m currently learning microbiome data analysis.
 - 💞️ I’m looking to collaborate on microbiome analysis.
